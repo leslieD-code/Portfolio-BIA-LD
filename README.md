@@ -55,7 +55,7 @@ Ce dépôt regroupe mes projets réalisés dans le cadre de ma formation, illust
 ---
 
 ### 🏠 Formation
-👉 [Voir le projet 1](projet/openclassroom-Démarrez-votre-formation-de-Business-Intelligence-Analyst)(projets/01-intro-bia/)
+👉 [projets/01-intro-bia/](projet/openclassroom-Démarrez-votre-formation-de-Business-Intelligence-Analyst)
 
 
 ## 📬 Contact
