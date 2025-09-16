@@ -1,6 +1,13 @@
 # Projet 1 – Démarrez votre formation de Business Intelligence Analyst
 
+![Statut](https://img.shields.io/badge/Projet-Terminé-brightgreen)  
+![Outil](https://img.shields.io/badge/Outil-Excel-blue)  
+
 Ce dossier contient les livrables du projet 1 de mon Bachelor **Business Intelligence Analyst**.
+
+Ce projet marque le point de départ de ma formation Bachelor BIA et m’a permis d’identifier mes compétences actuelles ainsi que mes objectifs de progression.
+
+
 
 ## 📑 Livrables
 - 📄 [Fiche de formation](Deluy_Leslie_1_Fiche_formation_022025.pdf)
