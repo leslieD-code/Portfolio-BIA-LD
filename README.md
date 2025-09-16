@@ -54,6 +54,9 @@ Ce dépôt regroupe mes projets réalisés dans le cadre de ma formation, illust
 
 ---
 
+### 🏠 Formation
+👉 [Voir le projet 1](projet/openclassroom-Démarrez-votre-formation-de-Business-Intelligence-Analyst)
+
 
 ## 📬 Contact
 - [LinkedIn](https://www.linkedin.com/in/leslie-d-47319389/)
