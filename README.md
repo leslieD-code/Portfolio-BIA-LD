@@ -56,5 +56,5 @@ Ce dépôt regroupe mes projets réalisés dans le cadre de ma formation, illust
 
 
 ## 📬 Contact
-- [LinkedIn]([https://www.linkedin.com/in/leslie-d-47319389/])  
+- [LinkedIn](https://www.linkedin.com/in/leslie-d-47319389/)
 - [Email](mailto:deluyleslie@hotmail.com)
