@@ -23,6 +23,7 @@ Ce dossier contient les livrables du projet 1 de mon Bachelor **Business Intelli
 - Les éventuels supports complémentaires (captures, notes) peuvent être ajoutés dans un sous-dossier `assets/`.
 
 ## 👀 Aperçu
-*<img width="397" height="566" alt="image" src="https://github.com/user-attachments/assets/93328e7b-67da-46f1-948b-d15b4c7f4fb0" /><img width="395" height="560" alt="image" src="https://github.com/user-attachments/assets/3072fb9a-2e91-4e92-97b4-ff19a64b299a" />
+*<img width="793" height="1131" alt="image" src="https://github.com/user-attachments/assets/f8363944-d974-480a-a64e-b6d53d9755ee" />
+<img width="395" height="560" alt="image" src="https://github.com/user-attachments/assets/3072fb9a-2e91-4e92-97b4-ff19a64b299a" />
 
 *
