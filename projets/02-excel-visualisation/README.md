@@ -6,8 +6,8 @@
 Ce dossier contient les livrables du **Projet 2 – Visualisez des données avec Excel** du Bachelor **Business Intelligence Analyst**.
 
 ## 📑 Livrables
-- 📄 [Rapport Word](visualisation/Deluy_Leslie_2_rapport_analyse_032025.docx)
-- 🎥 [Présentation PowerPoint](visualisation/Deluy_Leslie_1_presentation_032025.pptx)
+- 📄 [Rapport Word](Deluy_Leslie_2_rapport_analyse_032025.docx)
+- 🎥 [Présentation PowerPoint](Deluy_Leslie_1_presentation_032025.pptx)
 
 ## 🎯 Objectifs du projet
 - Créer et recopier des **formules**
