@@ -39,7 +39,7 @@ Ce dépôt regroupe mes projets réalisés dans le cadre de ma formation, illust
 ### 🏦 Analyse Excel - Secteur Bancaire 
 - Créez et recopiez des formules / Utilisez les fonctionnalités de filtre et de tri
 - Réalisez des tableaux croisés dynamiques / Créez des graphiques
-- 
+  
 👉 [Voir le projet 2 - Visualisez des données avec Excel](projets/02-excel-visualisation/)
 
 ---
