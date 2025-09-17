@@ -48,7 +48,7 @@ Ce dépôt regroupe mes projets réalisés dans le cadre de ma formation, illust
 - Nettoyage et analyse d’un jeu de données   
 - Visualisations des tendances de prix  / stock 
 
-👉 [Voir le projet 6](projets/python-Optimisez-la-gestion-&-nettoyez-les-données-du-stock-d-une-boutique)
+👉 [Voir le projet 6 Optimisez la gestion & nettoyez les données du stock d'une boutique](projets/06-python-gestion-stock/)
 👉 [Voir le projet 8](projets/python-Analysez-l-évolution-des-prix-de-l-immobilier-avec-Python)
 
 
