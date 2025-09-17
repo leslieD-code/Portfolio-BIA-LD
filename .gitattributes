@@ -1,9 +1,14 @@
-# Exclure seulement les notebooks du calcul
+# Ignorer les notebooks du calcul
 *.ipynb linguist-vendored
 
-# Forcer SQL
+# Forcer SQL comme langage
 *.sql linguist-language=SQL
 
-
+# Ignorer fichiers bureautiques
+*.pdf linguist-documentation
+*.docx linguist-documentation
+*.odt linguist-documentation
+*.xlsx linguist-documentation
+*.pptx linguist-documentation
 
 "📌 SQL détecté via fichiers .sql disponibles dans chaque projet”
