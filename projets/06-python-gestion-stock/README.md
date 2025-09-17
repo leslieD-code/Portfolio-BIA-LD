@@ -8,16 +8,11 @@ Ce dossier contient les livrables du **Projet 6 – Optimisez la gestion & netto
 
 ## 📑 Livrables
 - 🐍 [Notebook Jupyter (Python)](Deluy_Leslie_1_notebook_072025.ipynb)
-- 🌐 [Version HTML du notebook](Deluy_Leslie_1_notebook_072025.html)
+- 📄 [Version PDF du notebook](Deluy_Leslie_1_notebook_072025.pdf)
 - 🎥 [Présentation PowerPoint](Deluy_Leslie_2_présentation_072025.pptx)
 
-- ℹ️ Le fichier HTML du notebook est fourni pour faciliter la lecture des résultats.  
-- Le format `.ipynb` (Jupyter Notebook) permet de réexécuter le code, mais GitHub n’affiche pas toujours correctement les graphiques.  
-- Le format `.html` offre une **version statique et visuelle** du notebook, incluant tous les graphiques, sans avoir besoin d’ouvrir Jupyter.  
-
-Ainsi, un lecteur peut choisir :  
-- **.ipynb** → pour voir le code source et éventuellement le réexécuter.  
-- **.html** → pour consulter directement le rendu complet (texte, tableaux, graphiques) dans son navigateur.
+ℹ️ Une version PDF du notebook est fournie pour une lecture plus simple.  
+Elle contient le code **et** les graphiques, ce qui permet de consulter le projet sans avoir besoin d’ouvrir Jupyter.
 
 
 ## 🎯 Objectifs du projet
