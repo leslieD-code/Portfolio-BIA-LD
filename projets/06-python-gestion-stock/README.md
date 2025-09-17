@@ -11,8 +11,8 @@ Ce dossier contient les livrables du **Projet 6 – Optimisez la gestion & netto
 - 📄 [Version PDF du notebook](Deluy_Leslie_1_notebook_072025.pdf)
 - 🎥 [Présentation PowerPoint](Deluy_Leslie_2_présentation_072025.pptx)
 
-ℹ️ Une version PDF du notebook est fournie pour une lecture plus simple.  
-Elle contient le code **et** les graphiques, ce qui permet de consulter le projet sans avoir besoin d’ouvrir Jupyter.
+ℹ️ Une version PDF du notebook est fournie pour faciliter la lecture.  
+Elle contient le code et les résultats principaux, même sans installer Jupyter.
 
 
 ## 🎯 Objectifs du projet
