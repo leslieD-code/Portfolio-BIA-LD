@@ -22,7 +22,7 @@ Ce dépôt regroupe mes projets réalisés dans le cadre de ma formation, illust
 
 👉 [Voir le projet 3 Requetez une base de données avec SQL](projets/03-sql-requetes/)
 👉 [Voir le projet 4 Collectez des données en respectant les normes RGPD](projets/04-sql-rgpd/)
-👉 [Voir le projet 5](projets/sql-Manipulez-une-base-de-données-avec-SQL-pour-suivre-la-satisfaction-client)
+👉 [Voir le projet 5 Manipulez une base de données avec SQL pour suivre la satisfaction client](projets/05-sql-satisfaction-client/)
 
 ---
 
