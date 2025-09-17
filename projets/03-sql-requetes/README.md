@@ -6,7 +6,7 @@
 Ce dossier contient les livrables du **Projet 3 – Requêtez une base de données avec SQL** du Bachelor **Business Intelligence Analyst**.
 
 ## 📑 Livrables
-- 📄 [Document technique](projets/03-sql-requetes/Deluy_Leslie_1document technique_032025.pdf)
+- 📄 [Document technique](projets/03-sql-requetes/Deluy_Leslie_1document_technique_032025.pdf)
 - 📄 [Liste](projets/03-sql-requetes/Deluy_Leslie_2liste_032025.pdf)
 - 📄 [Méthodologie](projets/03-sql-requetes/Deluy_Leslie_3_méthodologie_032025.pdf)
 - 📄 [Grille](projets/03-sql-requetes/Deluy_Leslie_4_grille_032025.pdf)
