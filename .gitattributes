@@ -1,0 +1,16 @@
+# Ignorer les fichiers lourds dans la détection
+*.ipynb linguist-documentation
+*.pdf   linguist-documentation
+*.pptx  linguist-documentation
+*.pbix  linguist-documentation
+*.xlsx  linguist-documentation
+*.csv   linguist-documentation
+*.odt   linguist-documentation
+*.png   linguist-documentation
+*.jpg   linguist-documentation
+
+# Forcer SQL comme langage
+*.sql linguist-language=SQL
+
+
+"📌 SQL détecté via fichiers .sql disponibles dans chaque projet”
