@@ -30,7 +30,7 @@ Ce dépôt regroupe mes projets réalisés dans le cadre de ma formation, illust
 - Création d’un tableau de bord interactif pour suivre les performances commerciales  
 - Indicateurs clés (CA, ventes par produit, comparaison prévisions / réel)  
 
-👉 [Voir le projet 7](projets/powerbi-Créez-un-tableau-de-bord-dynamique-avec-PowerBI-pour-visualiser-l-avancement-de-projets)
+👉 [Voir le projet 7 Créez un tableau de bord dynamique avec PowerBI pour visualiser l'avancement de projets](projets/07-powerbi-avancement-projets/)
 👉 [Voir le projet 9](projets/powerbi-Améliorez-les-performances-de-l-entreprise)
 👉 [Voir le projet 10](projets/powerbi-Analysez-une-demande-business-et-identifiez-les-segments-du-marché-les-plus-pertinents-pour-votre-client)
 
