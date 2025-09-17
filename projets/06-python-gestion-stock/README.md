@@ -13,7 +13,15 @@ Ce dossier contient les livrables du **Projet 6 – Optimisez la gestion & netto
 - 🌐 [Web](data/web.xlsx)
 - 🔗 [Fichier de liaison](data/liaison.xlsx)
 
-ℹ️ Les fichiers sources sont fournis pour que le notebook soit réexécutable.  
+ℹ️ Les fichiers sources sont placés dans le dossier `data/` afin d’assurer une bonne organisation du projet.  
+Cette structure permet de séparer le code (notebook) des données brutes et garantit que le notebook peut être réexécuté facilement.  
+
+Dans le code, les fichiers sont appelés avec un chemin relatif, par exemple :  
+
+python :
+df_erp = pd.read_excel("data/erp.xlsx")
+df_web = pd.read_excel("data/web.xlsx")
+df_liaison = pd.read_excel("data/liaison.xlsx")
 
 
 - 📄 [Version PDF du notebook](Deluy_Leslie_1_notebook_072025.pdf)
