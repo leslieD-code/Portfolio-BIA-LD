@@ -8,6 +8,14 @@ Ce dossier contient les livrables du **Projet 6 – Optimisez la gestion & netto
 
 ## 📑 Livrables
 - 🐍 [Notebook Jupyter (Python)](Deluy_Leslie_1_notebook_072025.ipynb)
+  ## 📂 Données utilisées
+- 📊 [ERP](data/erp.xlsx)
+- 🌐 [Web](data/web.xlsx)
+- 🔗 [Fichier de liaison](data/liaison.xlsx)
+
+ℹ️ Les fichiers sources sont fournis pour que le notebook soit réexécutable.  
+
+
 - 📄 [Version PDF du notebook](Deluy_Leslie_1_notebook_072025.pdf)
 - 🎥 [Présentation PowerPoint](Deluy_Leslie_2_présentation_072025.pptx)
 
