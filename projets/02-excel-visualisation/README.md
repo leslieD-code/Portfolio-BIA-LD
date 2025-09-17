@@ -22,6 +22,6 @@ Ce dossier contient les livrables du **Projet 2 – Visualisez des données avec
 - Visualisations (graphiques)
 
 ## 👀 Aperçu
-<img width="188" height="554" alt="image" src="https://github.com/user-attachments/assets/214176d4-63fb-49bf-a5d8-7c68c7ee9c55" /><img width="182" height="558" alt="image" src="https://github.com/user-attachments/assets/a0451c73-8a93-4c21-956a-b4146c29dd9f" />
+<img width="188" height="554" alt="image" src="https://github.com/user-attachments/assets/214176d4-63fb-49bf-a5d8-7c68c7ee9c55" />   <img width="182" height="558" alt="image" src="https://github.com/user-attachments/assets/a0451c73-8a93-4c21-956a-b4146c29dd9f" />
 
 
