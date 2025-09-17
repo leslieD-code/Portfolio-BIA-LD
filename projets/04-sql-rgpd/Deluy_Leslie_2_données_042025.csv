@@ -1,0 +1,134 @@
+id_anonyme;metier;sexe;tranche_�ge;enfant_conduite_accompagne;Nombre_enfants;Revenus;valeur_residence_prin;formation;usage_vehicule;type_vehicule;est_rouge;points_perdus;age_vehicule;type_conduite;date_demande;etat_dossier;formule
+0;animateur du patrimoine;F;[20-29];0;Oui;[80k+];0;Bachelors;Commercial;Sports Car;no;0;7.0;Highly Urban/ Urban;25/02/2022 16:13;complet;dev_integral
+1;préparateur en pharmacie;F;[60+];1;Oui;[40k-60k];0;z_High School;Private;Minivan;no;2;1.0;Highly Urban/ Urban;24/05/2022 21:07;complet;dev_express
+2;électricien installateur installatrice;F;[40-49];0;Oui;[20k-40k];0;z_High School;Private;Pickup;no;0;4.0;z_Highly Rural/ Rural;24/01/2022 08:17;complet;dev_express
+3;chargé de veille législative et réglementaire;F;[<20];0;Non;[0-20k];106859;<High School;Private;z_SUV;no;3;5.0;Highly Urban/ Urban;20/04/2022 03:46;complet;dev_integral
+4;conseiller pénitentiaire d'insertion et de probation;M;[60+];0;Non;Non renseign�;207519;Bachelors;Commercial;Panel Truck;no;2;12.0;Highly Urban/ Urban;23/03/2022 01:32;complet;dev_vip
+5;staffeur-ornemaniste;F;[30-39];0;Oui;[60k-80k+];225962;Bachelors;Private;z_SUV;no;2;15.0;z_Highly Rural/ Rural;23/03/2022 22:20;complet;dev_premium
+6;technicien électrotechnicien électrotechnicienne;F;[60+];2;Oui;[80k+];344195;Bachelors;Commercial;Minivan;no;0;9.0;z_Highly Rural/ Rural;13/03/2022 01:10;complet;dev_express
+7;gestionnaire de patrimoine;M;[60+];0;Non;[40k-60k];230340;Bachelors;Private;z_SUV;no;1;10.0;Highly Urban/ Urban;09/03/2022 03:43;complet;dev_premium
+8;officier de gendarmerie;M;[60+];0;Non;[80k+];311980;PhD;Private;Minivan;no;0;14.0;Highly Urban/ Urban;29/01/2022 10:17;complet;dev_premium
+9;peintre en bâtiment;F;[50-59];0;Non;Non renseign�;252896;Bachelors;Commercial;Panel Truck;yes;1;10.0;Highly Urban/ Urban;26/03/2022 07:37;complet;dev_integral
+10;intégrateur web;F;[50-59];1;Oui;[20k-40k];0;Bachelors;Private;Minivan;no;0;10.0;Highly Urban/ Urban;26/05/2022 05:51;complet;dev_express
+11;coordonnateur d'études cliniques;M;[<20];0;Oui;[20k-40k];76022;z_High School;Private;z_SUV;no;0;1.0;Highly Urban/ Urban;27/01/2022 09:33;complet;dev_premium
+12;chargé de clientèle banque;F;[60+];0;Non;[60k-80k+];0;PhD;Private;z_SUV;no;0;18.0;Highly Urban/ Urban;08/05/2022 13:32;complet;dev_express
+13;audioprothésiste;M;[<20];0;Non;[0-20k];0;z_High School;Commercial;Van;no;5;6.0;z_Highly Rural/ Rural;02/05/2022 08:44;complet;dev_integral
+14;ingénieur opticien opticienne;M;[60+];0;Oui;[20k-40k];202967;z_High School;Private;Minivan;no;0;1.0;Highly Urban/ Urban;15/04/2022 13:09;complet;dev_integral
+15;accompagnateur de tourisme équestre;M;[60+];0;Non;[40k-60k];173196;Masters;Private;Minivan;no;0;13.0;Highly Urban/ Urban;11/05/2022 02:24;complet;dev_express
+16;conseiller en fusions-acquisitions;F;[50-59];0;Non;[80k+];329756;Masters;Private;z_SUV;no;0;15.0;Highly Urban/ Urban;12/04/2022 01:20;complet;dev_integral
+17;hydrogéologue;F;[60+];0;Non;[40k-60k];0;Bachelors;Commercial;Van;yes;1;8.0;Highly Urban/ Urban;04/03/2022 09:15;complet;dev_express
+18;toiletteur d'animaux;F;[60+];0;Non;[60k-80k+];249290;Bachelors;Private;Minivan;yes;0;11.0;Highly Urban/ Urban;05/02/2022 17:39;complet;dev_express
+19;charpentier métallique;F;[60+];0;Non;[40k-60k];158771;Bachelors;Private;z_SUV;no;0;10.0;Highly Urban/ Urban;25/04/2022 14:43;complet;dev_integral
+20;anatomiste;M;[30-39];0;Oui;[60k-80k+];220556;Masters;Private;Minivan;no;0;16.0;z_Highly Rural/ Rural;20/03/2022 03:44;complet;dev_express
+21;designer industriel industrielle;M;[60+];1;Oui;[20k-40k];143149;<High School;Private;Minivan;no;1;;Highly Urban/ Urban;27/03/2022 09:22;complet;dev_premium
+22;chargé des relations publiques;F;[20-29];0;Non;Non renseign�;147191;z_High School;Commercial;Van;yes;0;7.0;Highly Urban/ Urban;16/05/2022 02:39;complet;dev_premium
+23;animateur nature nature;F;[60+];0;Oui;[40k-60k];209188;z_High School;Commercial;Sports Car;no;5;1.0;Highly Urban/ Urban;06/02/2022 07:52;complet;dev_premium
+24;ingénieur réservoir;M;[20-29];0;Non;[20k-40k];123924;<High School;Commercial;Pickup;no;1;1.0;Highly Urban/ Urban;27/04/2022 15:06;complet;dev_express
+25;collaborateur de notaire de notaire;M;[60+];0;Non;Non renseign�;;z_High School;Private;Minivan;yes;1;;z_Highly Rural/ Rural;13/04/2022 00:52;complet;dev_express
+26;architecte réseaux;F;[20-29];0;Non;[40k-60k];0;<High School;Private;Sports Car;no;0;1.0;z_Highly Rural/ Rural;22/03/2022 13:32;complet;dev_integral
+27;styliste;F;[40-49];0;Non;[60k-80k+];257889;Masters;Private;z_SUV;no;5;;Highly Urban/ Urban;22/04/2022 03:39;complet;dev_integral
+28;huissier de justice;F;[50-59];0;Non;[40k-60k];162428;z_High School;Private;z_SUV;no;0;1.0;Highly Urban/ Urban;23/03/2022 22:44;complet;dev_vip
+29;agronome;F;[<20];0;Non;[80k+];337340;Masters;Private;z_SUV;no;0;17.0;Highly Urban/ Urban;12/02/2022 20:23;complet;dev_premium
+30;technico-commercial en agroalimentaire;F;[50-59];0;Oui;[20k-40k];165094;z_High School;Private;z_SUV;no;0;1.0;Highly Urban/ Urban;14/01/2022 07:11;complet;dev_express
+31;conducteur de travaux;M;[40-49];0;Oui;[20k-40k];0;<High School;Commercial;Minivan;yes;6;5.0;z_Highly Rural/ Rural;09/04/2022 11:49;complet;dev_integral
+32;ingénieur en génie climatique;F;[60+];0;Non;[80k+];0;Bachelors;Private;z_SUV;no;3;9.0;Highly Urban/ Urban;23/03/2022 06:12;complet;dev_express
+33;biostatisticien;M;[<20];0;Non;[20k-40k];195096;<High School;Private;z_SUV;no;2;6.0;z_Highly Rural/ Rural;04/02/2022 17:14;complet;dev_premium
+34;technicien d'analyses biomédicales;M;[40-49];1;Oui;[60k-80k+];247884;Masters;Private;Sports Car;no;0;12.0;Highly Urban/ Urban;05/02/2022 18:50;complet;dev_express
+35;ingénieur de recherche clinique et épidémiologique;F;[60+];0;Non;[20k-40k];135679;Bachelors;Private;z_SUV;no;0;9.0;Highly Urban/ Urban;08/02/2022 09:59;complet;dev_integral
+36;responsable du service après-vente;F;[60+];0;Non;[20k-40k];171810;Bachelors;Commercial;Sports Car;no;0;15.0;Highly Urban/ Urban;06/02/2022 22:30;complet;dev_express
+37;sellier;F;[<20];0;Oui;[80k+];301739;Masters;Private;z_SUV;no;2;14.0;Highly Urban/ Urban;09/02/2022 14:28;complet;dev_integral
+38;responsable du back office;F;[50-59];0;Non;[80k+];0;Masters;Private;Minivan;no;0;15.0;Highly Urban/ Urban;26/05/2022 21:39;complet;dev_integral
+39;maroquinier;M;[30-39];0;Non;[40k-60k];167419;z_High School;Private;z_SUV;no;1;11.0;z_Highly Rural/ Rural;04/03/2022 15:36;complet;dev_premium
+40;professeur de collège et de lycée;F;[20-29];2;Oui;Non renseign�;0;Bachelors;Private;Sports Car;no;0;10.0;Highly Urban/ Urban;31/05/2022 13:11;complet;dev_express
+41;éducateur de la protection judiciaire de la jeunesse (PJJ);F;[60+];0;Oui;[0-20k];0;<High School;Private;z_SUV;no;5;8.0;Highly Urban/ Urban;30/04/2022 23:20;complet;dev_express
+42;conducteur de travaux;M;[60+];0;Oui;[0-20k];0;Bachelors;Commercial;Pickup;yes;0;10.0;Highly Urban/ Urban;20/03/2022 04:00;complet;dev_express
+43;collecteur de fonds;F;[60+];1;Oui;[40k-60k];187514;z_High School;Private;Pickup;yes;0;;Highly Urban/ Urban;02/04/2022 11:25;complet;dev_premium
+44;commerçant en alimentation;M;[50-59];0;Non;[60k-80k+];0;Bachelors;Private;z_SUV;no;0;13.0;Highly Urban/ Urban;02/01/2022 20:05;complet;dev_integral
+45;mécanicien bateaux;F;[60+];0;Non;[80k+];278248;Masters;Private;z_SUV;no;4;15.0;Highly Urban/ Urban;24/02/2022 21:52;complet;dev_express
+46;technicien électronicien électronicienne;M;[60+];0;Oui;[0-20k];86118;<High School;Private;z_SUV;no;1;1.0;Highly Urban/ Urban;05/04/2022 02:47;complet;dev_express
+47;hôtesse de l'air;F;[40-49];0;Non;[80k+];375813;Masters;Commercial;Panel Truck;yes;1;13.0;Highly Urban/ Urban;21/02/2022 11:50;complet;dev_integral
+48;responsable du back office;M;[60+];0;Non;[80k+];0;Bachelors;Commercial;Van;yes;0;7.0;Highly Urban/ Urban;21/03/2022 00:37;complet;dev_integral
+49;directeur d'hôpital;F;[40-49];1;Oui;[40k-60k];180764;<High School;Private;Van;yes;1;1.0;z_Highly Rural/ Rural;03/04/2022 12:30;complet;dev_integral
+50;tailleur de pierre;F;[20-29];0;Non;[20k-40k];124838;<High School;Commercial;Pickup;yes;7;1.0;Highly Urban/ Urban;28/03/2022 23:57;complet;dev_integral
+51;rédacteur on line;F;[50-59];0;Oui;[40k-60k];166667;<High School;Private;Minivan;no;1;5.0;Highly Urban/ Urban;21/03/2022 07:59;complet;dev_express
+52;géologue minier;M;[20-29];0;Non;[80k+];290668;Bachelors;Private;Minivan;no;0;7.0;Highly Urban/ Urban;23/05/2022 09:33;complet;dev_express
+53;conducteur de travaux  agricoles;F;[50-59];0;Non;[40k-60k];0;Masters;Private;Sports Car;no;0;19.0;Highly Urban/ Urban;03/05/2022 20:20;complet;dev_express
+54;gestionnaire de données cliniques;F;[<20];0;Non;[60k-80k+];219917;Bachelors;Commercial;Minivan;no;5;8.0;z_Highly Rural/ Rural;11/04/2022 14:51;complet;dev_express
+55;sapeur-pompier;M;[50-59];0;Non;[60k-80k+];316239;PhD;Private;Van;no;0;13.0;Highly Urban/ Urban;05/01/2022 09:29;complet;dev_premium
+56;technicien de la circulation ferroviaire SNCF;F;[50-59];0;Oui;[40k-60k];181896;Masters;Commercial;Van;yes;4;9.0;Highly Urban/ Urban;14/05/2022 13:46;complet;dev_integral
+57;dessinateur-projeteur;M;[30-39];0;Non;[60k-80k+];271183;Bachelors;Private;z_SUV;no;2;12.0;Highly Urban/ Urban;20/04/2022 10:04;complet;dev_express
+58;credit manager;F;[60+];1;Oui;[20k-40k];;z_High School;Private;Van;yes;0;1.0;Highly Urban/ Urban;22/01/2022 11:01;complet;dev_express
+59;rédacteur on line;F;[30-39];1;Oui;[20k-40k];0;z_High School;Private;Sports Car;no;1;7.0;Highly Urban/ Urban;26/04/2022 16:17;complet;dev_express
+60;agent de propreté urbaine;F;[60+];0;Non;[80k+];251362;Masters;Private;Minivan;no;0;16.0;Highly Urban/ Urban;23/03/2022 15:45;complet;dev_integral
+61;chargé de veille législative et réglementaire;F;[50-59];0;Non;[40k-60k];186223;Bachelors;Private;Pickup;no;0;8.0;Highly Urban/ Urban;27/04/2022 03:37;complet;dev_express
+62;guide-conférencier;F;[60+];0;Oui;[60k-80k+];217494;Bachelors;Commercial;Van;no;0;5.0;Highly Urban/ Urban;24/05/2022 02:44;complet;dev_integral
+63;conducteur de machines à papier;F;[60+];0;Oui;[20k-40k];0;<High School;Private;Sports Car;no;0;1.0;Highly Urban/ Urban;09/05/2022 23:43;complet;dev_express
+64;assistant maternel maternelle;F;[<20];0;Non;[0-20k];133204;Bachelors;Private;z_SUV;no;0;6.0;Highly Urban/ Urban;22/04/2022 08:38;complet;dev_integral
+65;professeur dans l'enseignement agricole;M;[50-59];0;Non;[60k-80k+];213225;z_High School;Private;z_SUV;no;5;1.0;Highly Urban/ Urban;17/05/2022 07:36;complet;dev_express
+66;avocat;M;[60+];0;Non;[80k+];249804;Bachelors;Private;Pickup;no;0;7.0;Highly Urban/ Urban;01/05/2022 22:37;complet;dev_express
+67;pharmacien;M;[50-59];0;Non;[0-20k];0;<High School;Private;Minivan;no;3;5.0;z_Highly Rural/ Rural;29/05/2022 10:50;complet;dev_express
+68;assistant dentaire;M;[60+];0;Oui;[20k-40k];93445;Bachelors;Private;z_SUV;yes;2;13.0;Highly Urban/ Urban;04/04/2022 09:48;complet;dev_express
+69;dépanneur en électroménager;F;[20-29];0;Non;[80k+];0;Bachelors;Commercial;Pickup;no;1;3.0;Highly Urban/ Urban;27/01/2022 21:31;complet;dev_integral
+70;ingénieur frigoriste;F;[<20];0;Non;[60k-80k+];0;Bachelors;Private;z_SUV;no;0;9.0;Highly Urban/ Urban;13/01/2022 03:29;complet;dev_integral
+71;responsable de laboratoire de recherche;M;[30-39];0;Non;[80k+];460196;PhD;Private;z_SUV;no;2;12.0;Highly Urban/ Urban;08/01/2022 11:18;complet;dev_express
+72;responsable de production alimentaire;M;[<20];0;Non;[80k+];255867;Bachelors;Private;Minivan;yes;2;9.0;Highly Urban/ Urban;05/04/2022 09:02;complet;dev_integral
+73;prothésiste dentaire;F;[60+];0;Oui;[60k-80k+];;z_High School;Private;Minivan;no;2;9.0;z_Highly Rural/ Rural;14/02/2022 02:00;complet;dev_premium
+74;ascensoriste;M;[60+];0;Non;[40k-60k];185826;Bachelors;Private;Pickup;no;0;8.0;Highly Urban/ Urban;14/01/2022 13:12;complet;dev_express
+75;coiffeur;F;[30-39];0;Non;[80k+];0;Masters;Private;z_SUV;no;1;18.0;Highly Urban/ Urban;20/04/2022 02:38;complet;dev_integral
+76;architecte des systèmes d'information;F;[60+];0;Non;[60k-80k+];263905;z_High School;Commercial;Minivan;no;5;1.0;Highly Urban/ Urban;10/05/2022 13:40;complet;dev_express
+77;responsable de laboratoire de contrôle en chimie;M;[50-59];0;Non;[40k-60k];0;Bachelors;Commercial;Panel Truck;no;4;11.0;Highly Urban/ Urban;24/01/2022 17:35;complet;dev_premium
+78;ingénieur recherche et développement en agroalimentaire;F;[50-59];0;Non;[40k-60k];161743;<High School;Private;Minivan;no;4;6.0;Highly Urban/ Urban;01/02/2022 04:48;complet;dev_express
+79;formulateur;M;[60+];0;Non;[80k+];0;z_High School;Private;Minivan;yes;1;1.0;Highly Urban/ Urban;20/04/2022 07:29;complet;dev_premium
+80;agent de constatation des douanes;M;[60+];0;Non;[0-20k];0;z_High School;Private;Sports Car;no;0;3.0;z_Highly Rural/ Rural;02/01/2022 10:07;complet;dev_express
+81;administrateur judiciaire;M;[60+];0;Non;[80k+];0;z_High School;Commercial;Van;yes;0;8.0;z_Highly Rural/ Rural;18/02/2022 08:51;complet;dev_express
+82;responsable de production alimentaire;F;[60+];0;Oui;[20k-40k];;Bachelors;Commercial;z_SUV;no;0;4.0;Highly Urban/ Urban;27/04/2022 19:14;complet;dev_express
+83;cryptologue;M;[60+];0;Non;[0-20k];0;<High School;Private;Sports Car;no;1;;z_Highly Rural/ Rural;09/05/2022 03:37;complet;dev_express
+84;agent de développement touristique;M;[60+];0;Non;[40k-60k];;z_High School;Commercial;Pickup;yes;2;8.0;Highly Urban/ Urban;14/01/2022 21:13;complet;dev_express
+85;développeur économique;M;[40-49];0;Non;[40k-60k];159152;z_High School;Private;Minivan;yes;0;9.0;Highly Urban/ Urban;30/03/2022 13:20;complet;dev_express
+86;enseignant d'art;M;[50-59];0;Non;Non renseign�;0;Masters;Private;Minivan;no;0;17.0;Highly Urban/ Urban;25/01/2022 00:58;complet;dev_premium
+87;conseiller en séjour;F;[20-29];1;Oui;[20k-40k];0;z_High School;Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;28/05/2022 07:13;complet;dev_express
+88;géochimiste;M;[50-59];0;Non;[40k-60k];229556;Masters;Private;Minivan;no;0;13.0;Highly Urban/ Urban;12/02/2022 08:10;complet;dev_premium
+89;hydrogéologue;M;[60+];0;Oui;[40k-60k];164346;Masters;Private;Sports Car;no;0;2.0;z_Highly Rural/ Rural;11/01/2022 16:57;complet;dev_integral
+90;juge d'instruction;M;[60+];0;Non;[40k-60k];182917;z_High School;Commercial;Minivan;no;3;1.0;Highly Urban/ Urban;15/04/2022 05:20;complet;dev_express
+91;chef de projet multimédia;F;[<20];0;Oui;[20k-40k];115381;<High School;Private;Minivan;no;1;1.0;Highly Urban/ Urban;28/03/2022 10:41;complet;dev_premium
+92;toiletteur d'animaux;F;[<20];0;Non;[80k+];263363;z_High School;Private;Sports Car;no;6;1.0;Highly Urban/ Urban;26/02/2022 21:26;complet;dev_premium
+93;modéliste;M;[60+];0;Non;[40k-60k];0;z_High School;Private;Van;yes;0;1.0;Highly Urban/ Urban;17/01/2022 08:39;complet;dev_express
+94;ascensoriste;F;[60+];0;Non;[60k-80k+];198755;Bachelors;Private;Pickup;no;4;11.0;Highly Urban/ Urban;16/04/2022 00:13;complet;dev_integral
+95;miroitier;F;[50-59];0;Non;[20k-40k];;z_High School;Commercial;Pickup;yes;1;5.0;z_Highly Rural/ Rural;12/01/2022 03:39;complet;dev_integral
+96;géomaticien;M;[60+];0;Non;[20k-40k];0;z_High School;Private;Minivan;no;7;1.0;Highly Urban/ Urban;23/03/2022 01:48;complet;dev_express
+97;conseiller agricole;F;[30-39];1;Oui;[40k-60k];144063;<High School;Private;Minivan;yes;0;6.0;Highly Urban/ Urban;17/04/2022 15:27;complet;dev_integral
+98;guichetier;M;[40-49];0;Oui;[60k-80k+];243198;PhD;Private;Van;yes;1;8.0;Highly Urban/ Urban;05/05/2022 04:13;complet;dev_integral
+99;conducteur de bus ou d'autocar;M;[20-29];0;Non;[60k-80k+];0;z_High School;Commercial;z_SUV;no;0;1.0;Highly Urban/ Urban;28/02/2022 07:30;complet;dev_integral
+100;mécatronicien;M;[60+];0;Oui;[0-20k];92197;Masters;Commercial;Pickup;no;2;12.0;Highly Urban/ Urban;12/02/2022 17:39;complet;dev_integral
+101;conducteur de travaux;F;[20-29];0;Oui;[40k-60k];231102;z_High School;Private;Minivan;no;0;1.0;Highly Urban/ Urban;07/01/2022 19:37;complet;dev_integral
+102;agent d'exploitation de l'eau;M;[50-59];0;Non;[80k+];0;Bachelors;Private;Minivan;no;6;11.0;Highly Urban/ Urban;07/01/2022 13:02;complet;dev_integral
+103;paléontologue;M;[<20];0;Non;[80k+];0;Masters;Commercial;Panel Truck;yes;4;17.0;Highly Urban/ Urban;12/01/2022 00:08;complet;dev_express
+104;dépanneur en électroménager;M;[60+];0;Non;[60k-80k+];0;Bachelors;Private;Minivan;yes;1;12.0;Highly Urban/ Urban;24/05/2022 14:39;complet;dev_premium
+105;employé d'élevage;M;[20-29];0;Oui;Non renseign�;466804;PhD;Commercial;Panel Truck;yes;0;14.0;Highly Urban/ Urban;25/03/2022 12:49;complet;dev_integral
+106;chef de projet sites et sols pollués;F;[60+];1;Oui;[0-20k];129516;<High School;Private;Minivan;no;0;5.0;Highly Urban/ Urban;02/01/2022 00:52;complet;dev_integral
+107;ingénieur analyste de l'air;M;[40-49];0;Oui;[60k-80k+];255868;Bachelors;Commercial;Minivan;yes;1;12.0;z_Highly Rural/ Rural;01/03/2022 04:35;complet;dev_integral
+108;magistrat;F;[60+];0;Oui;[80k+];362176;Bachelors;Private;Minivan;yes;5;11.0;Highly Urban/ Urban;28/01/2022 11:20;complet;dev_express
+109;consultant en solutions intégrées;M;[60+];0;Non;[0-20k];134847;z_High School;Private;z_SUV;no;0;9.0;Highly Urban/ Urban;29/04/2022 08:01;complet;dev_premium
+110;chef de projet éolien;M;[50-59];0;Non;[60k-80k+];193720;Bachelors;Commercial;z_SUV;no;0;9.0;Highly Urban/ Urban;20/01/2022 00:10;complet;dev_integral
+111;esthéticien-cosméticien;M;[50-59];1;Oui;[80k+];277683;Bachelors;Commercial;Minivan;no;0;12.0;Highly Urban/ Urban;06/05/2022 14:07;complet;dev_express
+112;mécanicien-réparateur en matériel agricole;M;[60+];0;Oui;[0-20k];114124;z_High School;Private;z_SUV;no;0;8.0;Highly Urban/ Urban;14/03/2022 17:19;complet;dev_express
+113;chargé hygiène sécurité environnement (HSE);F;[60+];0;Oui;[40k-60k];131782;z_High School;Commercial;Minivan;no;2;6.0;Highly Urban/ Urban;20/03/2022 10:44;complet;dev_express
+114;responsable e-CRM;F;[50-59];0;Non;[80k+];240194;Bachelors;Private;z_SUV;no;0;14.0;Highly Urban/ Urban;18/01/2022 01:43;complet;dev_premium
+115;technicien de police technique et scientifique;F;[50-59];1;Oui;[20k-40k];118100;<High School;Private;Minivan;no;0;1.0;z_Highly Rural/ Rural;23/01/2022 11:52;complet;dev_premium
+116;comédien;F;[60+];1;Oui;[40k-60k];158126;Bachelors;Private;Sports Car;no;0;11.0;z_Highly Rural/ Rural;07/01/2022 23:42;complet;dev_express
+117;brodeur;F;[60+];2;Oui;[0-20k];100519;z_High School;Private;Pickup;no;0;7.0;Highly Urban/ Urban;02/01/2022 23:14;complet;dev_integral
+118;ingénieur d'études en sûreté nucléaire;M;[<20];2;Oui;[40k-60k];0;z_High School;Commercial;Sports Car;no;2;1.0;Highly Urban/ Urban;23/05/2022 03:25;complet;dev_integral
+119;expert-comptable;M;[<20];0;Non;[60k-80k+];236707;Masters;Private;Minivan;no;0;15.0;Highly Urban/ Urban;29/05/2022 09:22;complet;dev_integral
+120;surveillant de centre pénitentiaire;M;[60+];0;Non;[0-20k];110627;PhD;Private;z_SUV;no;0;13.0;z_Highly Rural/ Rural;09/02/2022 09:54;complet;dev_integral
+121;animateur d'activités physiques et sportives pour tous;M;[50-59];0;Oui;[80k+];318207;Masters;Private;Minivan;yes;2;11.0;Highly Urban/ Urban;17/02/2022 21:50;complet;dev_express
+122;consultant en validation;M;[60+];0;Non;[80k+];0;Bachelors;Private;z_SUV;no;0;12.0;Highly Urban/ Urban;06/05/2022 08:05;complet;dev_integral
+123;viticulteur;F;[50-59];0;Non;[60k-80k+];229425;Bachelors;Private;Pickup;yes;0;11.0;Highly Urban/ Urban;25/01/2022 10:57;complet;dev_integral
+124;technicien en automatismes;F;[30-39];0;Oui;[20k-40k];143884;Masters;Private;Van;no;4;9.0;Highly Urban/ Urban;01/01/2022 10:42;complet;dev_integral
+125;ingénieur du son;M;[30-39];0;Non;[80k+];0;Bachelors;Private;Minivan;no;0;8.0;Highly Urban/ Urban;02/04/2022 23:05;complet;dev_integral
+126;assistant de gestion en PME;M;[60+];0;Non;[80k+];276038;z_High School;Private;Minivan;no;2;1.0;Highly Urban/ Urban;14/04/2022 03:03;complet;dev_integral
+127;ingénieur aromaticien aromaticienne;M;[<20];0;Non;[0-20k];51893;z_High School;Commercial;Minivan;yes;7;1.0;z_Highly Rural/ Rural;07/03/2022 01:04;complet;dev_express
+128;responsable d'élevage agricole;M;[20-29];0;Non;[40k-60k];202236;Bachelors;Commercial;Sports Car;no;1;;Highly Urban/ Urban;04/04/2022 21:37;complet;dev_premium
+129;assistant de service social;M;[60+];0;Non;[80k+];335050;PhD;Private;Minivan;no;1;13.0;Highly Urban/ Urban;20/04/2022 04:58;complet;dev_express
+130;hydraulicien;F;[60+];0;Oui;[0-20k];59496;Bachelors;Private;Sports Car;no;0;13.0;Highly Urban/ Urban;25/02/2022 11:43;complet;dev_express
+131;puériculteur;F;[60+];0;Oui;[20k-40k];0;z_High School;Private;Minivan;no;8;9.0;Highly Urban/ Urban;28/05/2022 00:32;complet;dev_vip
+132;chef de mission humanitaire;M;[<20];0;Oui;[0-20k];64192;<High School;Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;18/03/2022 05:26;complet;dev_express
